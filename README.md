@@ -18,7 +18,7 @@ The dashboard includes an interactive **Light Mode / Dark Mode toggle**, allowin
 ![HR Analytics Dashboard - Dark Mode](HR-Analytics-Dashboard-Dark-Mode.png)
 
 ### ☀️ Light Mode
-
+HR-Analytics-Dashboard - Light Mode.png
 ![HR Analytics Dashboard - Light Mode](HR-Analytics-Dashboard-Light-Mode.png)
 
 ---
